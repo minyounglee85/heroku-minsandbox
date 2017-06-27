@@ -28,7 +28,7 @@ const Wrapper = styled.div`
 
 const Header = () => (
     <Wrapper>
-        memo
+        memo app
     </Wrapper>
 );
 
